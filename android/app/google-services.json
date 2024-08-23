@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071345974950",
+    "project_id": "jaipoc-ecb72",
+    "storage_bucket": "jaipoc-ecb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071345974950:android:c642ea4c714bd550763e67",
+        "android_client_info": {
+          "package_name": "com.example.jai_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071345974950-rit6577e2qcjuffv3k31uce2tc4o36q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jai_poc",
+            "certificate_hash": "cbbbd8f95f9f994c716ed666ec127abab86b9948"
+          }
+        },
+        {
+          "client_id": "1071345974950-ca72qi0kmlhaik56ice3oaag0i3ch5rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Jf4EGNXtD4bfdYfa9aChQgY9jsBuxXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071345974950-ca72qi0kmlhaik56ice3oaag0i3ch5rs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071345974950-d08v8n5ucs6f12lc1bs3k9t697fj4c8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jaiPoc.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

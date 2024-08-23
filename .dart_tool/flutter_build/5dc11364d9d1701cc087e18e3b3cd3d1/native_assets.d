@@ -1,0 +1,1 @@
+ /Users/code47/Downloads/POCJune2024/.dart_tool/flutter_build/5dc11364d9d1701cc087e18e3b3cd3d1/native_assets.yaml: 
